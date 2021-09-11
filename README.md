@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WolfSekhar/](https://github.com/WolfSekhar/)
 
-- 💬 Ask me about **my Guts**
-
 - 📫 How to reach me **sekhar.root@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
