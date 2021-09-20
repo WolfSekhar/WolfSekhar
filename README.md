@@ -1,11 +1,4 @@
 <h1 align="center">Ola 👋, I'm Sekhar</h1>
-<h3 align="center">Rule #1. Never change the deal.</h3>
-
-- 🔭 I’m currently working on [Iterio](https://github.com/WolfSekhar/Iterio)
-
-- 🌱 I’m currently learning **Front-end Web Development and Vala**
-
-- 👨‍💻 All of my projects are available at [https://github.com/WolfSekhar/](https://github.com/WolfSekhar/)
 
 - 📫 How to reach me **sekhar.root@gmail.com**
 
