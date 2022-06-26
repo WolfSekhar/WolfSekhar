@@ -1,4 +1,5 @@
-<h1 align="center">Hola 👋, I'm Sekhar</h1>
+<p align="center"><img align="center" src="https://github.com/WolfSekhar/WolfSekhar/blob/main/greetings.gif" alt="Hola" height="50%" width="50%"></p>
+<h1 align="center">I'm Sekhar</h1>
 <h3 align="center">A passionate computational physics programmer</h3>
 
 - 🔭 I’m currently working on <b> Numerical Computational Physics</b>
