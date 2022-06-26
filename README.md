@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://github.com/WolfSekhar/WolfSekhar/blob/main/greetings.gif" alt="Hola" height="50%" width="50%"></p>
+<p align="center"><img align="center" src="https://github.com/WolfSekhar/WolfSekhar/blob/main/greetings.gif" alt="Hola" height="40%" width="40%"></p>
 <h1 align="center">I'm Sekhar</h1>
 <h3 align="center">A passionate computational physics programmer</h3>
 
