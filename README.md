@@ -2,8 +2,7 @@
 <h1 align="center">I'm Sekhar</h1>
 <h3 align="center">A passionate computational physics programmer</h3>
 
-- 🔭 I’m currently working on <b> Numerical Computational Physics</b>
-- 🌱 I’m currently learning **Matlab and Scilab**
+- 🌱 I’m currently learning **Processing for simulation**
 - 📫 How to reach me **sekhar.root@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
